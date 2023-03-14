@@ -75,7 +75,7 @@ Capture d'écran ou vidéo de démonstration (facultatif)
 
 ## Compétences
 
-#Outil 
+#Outils
 
 Outils Dataviz (PowerBI, Tableau, Qlik ou Data studio), Logiciels pack Office, Canva, Figma, Suite Adobe
 
