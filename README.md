@@ -1,4 +1,5 @@
 #  Bonjour, je m'appelle Alexandre Lepoutre
+![Fond github](https://user-images.githubusercontent.com/127758483/225930857-9705f9a9-0ee6-439d-a734-15b286099443.jpg)
 
 ## Métier actuel Data-Analyst
 
