@@ -1,4 +1,3 @@
-#  Bonjour, je m'appelle Alexandre Lepoutre
 
 ![GitHub fond d'écran](https://user-images.githubusercontent.com/127758483/225933986-c7161a1d-ea14-4a51-a641-e52aad6981c3.jpg)
 
