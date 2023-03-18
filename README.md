@@ -76,19 +76,19 @@ Capture d'écran ou vidéo de démonstration (facultatif)
 
 ## Compétences
 
-#Outils
+**Outils**
 
 Outils Dataviz (PowerBI, Tableau, Qlik ou Data studio), Logiciels pack Office, Canva, Figma, Suite Adobe
 
-#Programmations
+**Programmations**
 
 JavaScript, CSS, HTML, Python, R, SQL
 
-#Support de base de données
+**Support de base de données**
 
 My SQL, PostgreSQL, NoSQL, Mongodb, Git, GitHub, librairie Python (Beautiful Soup, pandas, jupiter)
 
-#Langues 
+**Langues**
 
 Français  Anglais      Espagnol 
 
