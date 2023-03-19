@@ -18,7 +18,7 @@
 
 ## Introduction
 
-Je suis Data-Analyst, j'ai eu plusieurs expériences dans le métier. Bien-sûr, j'ai eu d'autres expériences dans d'autres métiers auquel j'ai beaucoup appris et je continue de pratiquer certaines compétences dans le moment présent.
+Je suis Data-Analyst, j'ai eu plusieurs expériences dans le métier. Bien-sûr, j'ai eu d'autres expériences dans d'autres métiers auquel j'ai beaucoup appris et je continue de pratiquer certaines compétences.
 
 Je suis passionné par l'innovation et j'aime travailler sur des projets qui ont un impact positif sur la vie des gens. Mes compétences incluent la programmation en Python, la visualisation de donnée à travers des tableaux ainsi que la conception et la gestion de bases de données.
 
