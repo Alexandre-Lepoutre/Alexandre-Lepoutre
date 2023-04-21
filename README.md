@@ -77,26 +77,56 @@ Notre Dame d’Annay - Lille Octobre 2018-2020
 Être un acteur clé dans la relation client interne ou externe
 
 ## Expériences
+- **Data Analyst**
+
+Auchan Retail International Février - Juillet 2023-2023
+Suivi de l’intégration automatisé
+Monitoring 
+Réalisation de requête à l’aide de BigQuery 
+Création de DataViz avec lookerstudio/PowerBI 
+Transférer des fichiers stockés sur google drive vers un bucket GCP à l’aide d’un script Python
+
+Création de Dashboard, mise en ligne de newsletter et prochainement : animer une présentation concernant les tâches dites précédemment.
+
+- **Communty Manager**
+
+Expériences Atom & Auchan Retail International
+Production de contenus rédactionnels
+Production de contenus vidéos (montage)
+Définition de la ligne éditoriale
+Conception de la stratégie marketing de contenu
+Veille sociale
+Gestion des communautés
+Mesure des résultats et analyses dans une logique d’amélioration de la performance à l’aide de Meta business suite
+Optimisation SEO
+Création d'un compte LinkedIn professionnel (Logo, Bannière)
+Création d'un personnage animé (mascotte).
+Création de logo pour le service Data
+Amélioration de la charte graphique
 
 - **Gestionnaire de contenus SEO e commerce** 
+
 Atom-sa  Septembre - Septembre 2021-2022
 E-merchandising / Référencement naturel
 Mise en ligne produit sur PrestaShop/Google Merchant Center/Agoserve
 Dédoublonnage de liste produits / Emailing
 
 - **Assistant manager**
+
 Business Club Group Valenciennes Avril - Juin 2021
 Benchmarking, veille concurrentielle
 Réalisation d’une cartographie des réseaux similaires aux business Club
 Étude de marché sur les sites ayant la même activité que Business Club
 
 - **Assistant Responsable Data center**
+
 ABB Novembre - Décembre 2019
 Participation à l’organisation d’un salon avec suivi des besoins prévisionnels puis aux retours clients et bilan financier de l’opération. 
 Dédoublonnage de fichiers, Regroupement et priorisation d’informations, Envoi de documentation ou de communiqués de presse.
 Ciblage de clients selon catégories
 
 - **Assistant chef de projet** 
+
 Kiloutou Novembre - Décembre 2018
 Participation à l’organisation d’un salon et développement d’un nouveau produit et service
 Gestion de l’envoi de données aux fournisseurs (Kbis,RIB,Ouverture de compte, courrier fournisseur)
